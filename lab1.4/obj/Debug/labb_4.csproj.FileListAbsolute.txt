@@ -1,0 +1,14 @@
+\\GLADKOV-PC\Users\Public\тп\labb_4\bin\Debug\labb_4.exe.config
+\\GLADKOV-PC\Users\Public\тп\labb_4\bin\Debug\labb_4.exe
+\\GLADKOV-PC\Users\Public\тп\labb_4\bin\Debug\labb_4.pdb
+\\GLADKOV-PC\Users\Public\тп\labb_4\obj\Debug\labb_4.csprojAssemblyReference.cache
+\\GLADKOV-PC\Users\Public\тп\labb_4\obj\Debug\labb_4.csproj.CoreCompileInputs.cache
+\\GLADKOV-PC\Users\Public\тп\labb_4\obj\Debug\labb_4.exe
+\\GLADKOV-PC\Users\Public\тп\labb_4\obj\Debug\labb_4.pdb
+C:\Users\Юрий\Desktop\сыркин\lab_1\labb_4\bin\Debug\labb_4.exe.config
+C:\Users\Юрий\Desktop\сыркин\lab_1\labb_4\bin\Debug\labb_4.exe
+C:\Users\Юрий\Desktop\сыркин\lab_1\labb_4\bin\Debug\labb_4.pdb
+C:\Users\Юрий\Desktop\сыркин\lab_1\labb_4\obj\Debug\labb_4.csprojAssemblyReference.cache
+C:\Users\Юрий\Desktop\сыркин\lab_1\labb_4\obj\Debug\labb_4.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Desktop\сыркин\lab_1\labb_4\obj\Debug\labb_4.exe
+C:\Users\Юрий\Desktop\сыркин\lab_1\labb_4\obj\Debug\labb_4.pdb
